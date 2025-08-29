@@ -1,5 +1,5 @@
 ## What is this repository about?
-This is a small implementation of a Node application deployed on AWS Elastic Beanstalk
+This is a small Node application which can be deployed on AWS Elastic Beanstalk by following the simple steps below:
 
 ## Getting started
 1. Clone this repository
